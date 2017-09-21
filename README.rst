@@ -1,7 +1,7 @@
 Python Challenge (Palindromic Numbers)
 =======================
 
-A palindromic number is a number that remains the same when it is reversed; that is to sayit is the same forwards and backwards. For example 14,541 and 252 are both palindromeswhile 54 and 123 are not. The aforementioned cases are all in decimal but it's possible for numbers that are not palindromic in base 10 to be palindromic in other bases.17 for example is not palindromic in decimal but is palindromic when represented in binary:100012.Another example is 16 which is not palindromic in decimal but is palindromic in base 3: 1213.Write a Python program determines the smallest base (greater than or equal to 2) in whichthe first 1000 positive decimal integers are palindromes.
+A palindromic number is a number that remains the same when it is reversed; that is to sayit is the same forwards and backwards. For example 14,541 and 252 are both palindromeswhile 54 and 123 are not. The mentioned cases are all in decimal but it's possible for numbers that are not palindromic in base 10 to be palindromic in other bases.17 for example is not palindromic in decimal but is palindromic when represented in binary:100012. Another example is 16 which is not palindromic in decimal but is palindromic in base 3: 1213. Write a Python program determines the smallest base (greater than or equal to 2) in whichthe first 1000 positive decimal integers are palindromes.
 
 ----
 
