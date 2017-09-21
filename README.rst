@@ -7,7 +7,7 @@ A palindromic number is a number that remains the same when it is reversed; that
 
 Here's example output for the first 20 non-negative integers:
 "decimal", "smallest base in which the number is a palindrome"
-0, 2\n
+0, 2
 1, 2
 2, 3
 3, 2
